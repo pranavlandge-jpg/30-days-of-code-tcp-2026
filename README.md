@@ -2,7 +2,7 @@ Name: Pranav Landge
 Branch: IT
 Roll no: 25118059
 
-DAY 01
+DAY_01
 
 index.html output
 
@@ -23,8 +23,18 @@ about.html output
 
 
 
-DAY 02
+DAY_02
 
 event.html
 
 <img width="1919" height="991" alt="Image" src="https://github.com/user-attachments/assets/41db159b-e24f-466a-adea-0b389d78f8f4" />
+
+
+
+
+DAY_03
+
+<img width="1907" height="992" alt="Image" src="https://github.com/user-attachments/assets/46d9c877-a00f-4718-bc5e-f2714a3ecd64" />
+<img width="1904" height="996" alt="Image" src="https://github.com/user-attachments/assets/f08ff9ea-32b2-4c00-a2ff-a7299ed4be92" />
+<img width="1905" height="996" alt="Image" src="https://github.com/user-attachments/assets/4b115ab7-7d57-4871-9ec9-e1c6a3905b93" />
+<img width="1896" height="994" alt="Image" src="https://github.com/user-attachments/assets/a96723f8-589a-4a10-bf39-399646f7d72c" />
