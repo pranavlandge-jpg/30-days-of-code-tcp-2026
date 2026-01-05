@@ -1,0 +1,148 @@
+@font-face {
+    font-family: 'akira';
+    src: url(./fonts/Akira\ Expanded\ Demo.otf);
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+@font-face {
+    font-family: 'palmore';
+    src: url('./fonts/fonts/Palmore.otf') format('opentype');
+}
+
+@font-face {
+    font-family: '12angry';
+    src: url('./fonts/fonts/BebasNeue-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'body';
+    src: url('./fonts/fonts/DMSans_36pt-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'indie';
+    src: url(./fonts/fonts/IndieFlower-Regular.ttf);
+}
+
+body{
+    background-color: #929DF6;
+}
+
+
+header{
+    font-family: 'body';
+    font-weight: 500px;
+    color: aliceblue;
+       margin-top: 35px;
+    display: flex;
+    margin-left: 63px;
+    font-size: 43px;
+   
+   
+}
+
+h1 span{
+    opacity: 0.6;
+   
+}
+
+#status{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    font-family: 'body';
+    font-size: 27px;
+    padding :10px;
+    width : 300px;
+    border-radius: 40px;
+    margin: auto;
+
+    background-color:#2C2C5E ;
+}
+main{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+
+
+
+.stronggame{
+    background-color: #2C2C5E;
+    display: grid;
+    grid-template-columns: repeat(3,160px);
+    grid-template-rows: repeat(3,160px);
+    margin-top: 94px;
+    border-radius: 30px;
+}
+
+.daba{
+    background-color:#3D4293 ;
+    width: 125px;
+    height: 125px;
+   margin: auto;
+   border-radius: 30px;
+   padding: 20px;
+   box-shadow:0px 11px 0px #313778;
+   cursor: pointer;
+   
+ 
+   
+   
+   
+}
+
+.daba:hover{
+    transform: translateY(5px);
+}
+
+
+.reset{
+    background-color: rgb(255, 253, 207);
+    font-family: 'body';
+    border-color: transparent;
+    padding: 3px;
+    font-size: 1.3rem;
+    width: 100px;
+    border-radius: 40px;
+    color:rgb(174, 171, 78) ;
+    display: block;
+    margin: auto;
+    margin-top: 86px;
+}
+
+
+
+
+svg {
+    width: 80px !important;
+    height: 80px !important;
+}
+
+
+.daba {
+    /* This centers the content */
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+
+    /* This forces text (if it's text) to be BIG */
+    font-size: 100px !important;
+}
+
+/* This forces images or SVGs to be BIG */
+.daba img, .daba svg {
+    width: 100px !important;
+    height: 100px !important;
+    display: block !important;
+}
