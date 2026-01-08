@@ -62,3 +62,9 @@ DAY_06
 DAY_07
 
 <img width="1917" height="993" alt="Image" src="https://github.com/user-attachments/assets/6072ec4c-8595-4458-9534-e98e737f7983" />
+
+
+
+DAY_08
+
+<img width="1919" height="996" alt="Image" src="https://github.com/user-attachments/assets/fd0eea9e-737f-4bf0-ac0d-7e0157cf5149" />
