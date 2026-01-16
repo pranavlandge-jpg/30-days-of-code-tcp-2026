@@ -105,3 +105,8 @@ DAY_15
 
 <img width="1919" height="988" alt="Image" src="https://github.com/user-attachments/assets/2d06179c-6c9e-433b-87e7-9c606861c928" />
 
+
+DAY_16
+
+<img width="1919" height="995" alt="Image" src="https://github.com/user-attachments/assets/7d2939ad-31f7-4588-83af-5a229cfb96ff" />
+
