@@ -120,3 +120,9 @@ DAY_17
 DAY_18
 
 <img width="1919" height="989" alt="Image" src="https://github.com/user-attachments/assets/ce337ce7-862b-4370-9672-cc8a8b466f5d" />
+
+
+
+DAY_19
+
+<img width="1919" height="986" alt="Image" src="https://github.com/user-attachments/assets/92a9f9f9-7650-4532-a2f1-ebbbb81b4e43" />
