@@ -139,3 +139,8 @@ DAY_21
 
 
 <img width="1919" height="1001" alt="Image" src="https://github.com/user-attachments/assets/897dc124-cc79-458e-b64a-5aea06ddee33" />
+
+
+DAY_22
+
+<img width="1919" height="988" alt="Image" src="https://github.com/user-attachments/assets/4d560511-76f7-4809-8f3e-fd62c6d1650d" />
