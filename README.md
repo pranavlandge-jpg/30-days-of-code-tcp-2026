@@ -149,3 +149,8 @@ DAY_22
 DAY_23
 
 <img width="1911" height="819" alt="Image" src="https://github.com/user-attachments/assets/ed371cbd-4a19-494a-b475-95db42faec19" />
+
+
+DAY_24
+
+<img width="1467" height="988" alt="Image" src="https://github.com/user-attachments/assets/41d68cb6-a94f-434c-b176-9245feefb561" />
